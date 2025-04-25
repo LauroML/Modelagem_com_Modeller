@@ -1,0 +1,139 @@
+ _aln.pos           10        20        30        40        50        60
+6u9w        ----CSWNDVFQYETNKVTRIQSVNYGTIKWILHMTVFSYVSFALMSDKLYQRKEPLISSVHTKVK 
+RAttusP2X7  MPACCSWNDVFQYETNKVTRIQSVNYGTIKWILHMTVFSYVSFALMSDKLYQRKEPLISSVHTKVK 
+ _consrvd       **************************************************************
+
+ _aln.pos     70        80        90       100       110       120       130
+6u9w        GVAEVTENVTEGGVTKLVHGIFDTADYTLPLQGNSFFVMTNYLKSEGQEQKLCPEYPSRGKQCHSD 
+RAttusP2X7  GVAEVTENVTEGGVTKLVHGIFDTADYTLPLQGNSFFVMTNYLKSEGQEQKLCPEYPSRGKQCHSD 
+ _consrvd   ******************************************************************
+
+ _aln.pos        140       150       160       170       180       190
+6u9w        QGCIKGWMDPQSKGIQTGRCIPYDQKRKTCEIFAWCPAEEGKEAPRPALLRSAENFTVLIKNNIDF 
+RAttusP2X7  QGCIKGWMDPQSKGIQTGRCIPYDQKRKTCEIFAWCPAEEGKEAPRPALLRSAENFTVLIKNNIDF 
+ _consrvd   ******************************************************************
+
+ _aln.pos  200       210       220       230       240       250       260
+6u9w        PGHNYTTRNILPGMNISCTFHKTWNPQCPIFRLGDIFQEIGENFTEVAVQGGIMGIEIYWDCNLDS 
+RAttusP2X7  PGHNYTTRNILPGMNISCTFHKTWNPQCPIFRLGDIFQEIGENFTEVAVQGGIMGIEIYWDCNLDS 
+ _consrvd   ******************************************************************
+
+ _aln.pos      270       280       290       300       310       320       330
+6u9w        WSHRCQPKYSFRRLDDKYTNESLFPGYNFRYAKYYKENGMEKRTLIKAFGVRFDILVFGTGGKFDI 
+RAttusP2X7  WSHRCQPKYSFRRLDDKYTNESLFPGYNFRYAKYYKENGMEKRTLIKAFGVRFDILVFGTGGKFDI 
+ _consrvd   ******************************************************************
+
+ _aln.pos          340       350       360       370       380       390
+6u9w        IQLVVYIGSTLSYFGLATVCIDLIINTYASTCCRSRVYPSCKCCEPCAVNEYYYRKKCEPIVEPKP 
+RAttusP2X7  IQLVVYIGSTLSYFGLATVCIDLIINTYASTCCRSRVYPSCKCCEPCAVNEYYYRKKCEPIVEPKP 
+ _consrvd   ******************************************************************
+
+ _aln.pos    400       410       420       430       440       450       460
+6u9w        TLKYVSFVDEPHIWMVDQQLLGKSLQDVKGQEVPRPQTDFLELSRLD------------------- 
+RAttusP2X7  TLKYVSFVDEPHIWMVDQQLLGKSLQDVKGQEVPRPQTDFLELSRLSLSLHHSPPIPGQPEEMQLL 
+ _consrvd   **********************************************
+
+ _aln.pos        470       480       490       500       510       520
+6u9w        ----------SPDWCQCGNCLPSQLPENRRALEELCCRRKPGQCITTSELFSKIVLSREALQLLLL 
+RAttusP2X7  QIEAVPRSRDSPDWCQCGNCLPSQLPENRRALEELCCRRKPGQCITTSELFSKIVLSREALQLLLL 
+ _consrvd             ********************************************************
+
+ _aln.pos  530       540       550       560       570       580       590
+6u9w        YQEPLLALEGEAINSKLRHCAYRSYATWRFVSQDMADFAILPSCCRWKIRKEFPKTQGQYSGFKYP 
+RAttusP2X7  YQEPLLALEGEAINSKLRHCAYRSYATWRFVSQDMADFAILPSCCRWKIRKEFPKTQGQYSGFKYP 
+ _consrvd   ******************************************************************
+
+ _aln.pos      600       610       620       630       640       650       660
+6u9w        Y/C----SWNDVFQYETNKVTRIQSVNYGTIKWILHMTVFSYVSFALMSDKLYQRKEPLISSVHTK 
+RAttusP2X7  Y-MPACCSWNDVFQYETNKVTRIQSVNYGTIKWILHMTVFSYVSFALMSDKLYQRKEPLISSVHTK 
+ _consrvd   *      ***********************************************************
+
+ _aln.pos          670       680       690       700       710       720
+6u9w        VKGVAEVTENVTEGGVTKLVHGIFDTADYTLPLQGNSFFVMTNYLKSEGQEQKLCPEYPSRGKQCH 
+RAttusP2X7  VKGVAEVTENVTEGGVTKLVHGIFDTADYTLPLQGNSFFVMTNYLKSEGQEQKLCPEYPSRGKQCH 
+ _consrvd   ******************************************************************
+
+ _aln.pos    730       740       750       760       770       780       790
+6u9w        SDQGCIKGWMDPQSKGIQTGRCIPYDQKRKTCEIFAWCPAEEGKEAPRPALLRSAENFTVLIKNNI 
+RAttusP2X7  SDQGCIKGWMDPQSKGIQTGRCIPYDQKRKTCEIFAWCPAEEGKEAPRPALLRSAENFTVLIKNNI 
+ _consrvd   ******************************************************************
+
+ _aln.pos        800       810       820       830       840       850
+6u9w        DFPGHNYTTRNILPGMNISCTFHKTWNPQCPIFRLGDIFQEIGENFTEVAVQGGIMGIEIYWDCNL 
+RAttusP2X7  DFPGHNYTTRNILPGMNISCTFHKTWNPQCPIFRLGDIFQEIGENFTEVAVQGGIMGIEIYWDCNL 
+ _consrvd   ******************************************************************
+
+ _aln.pos  860       870       880       890       900       910       920
+6u9w        DSWSHRCQPKYSFRRLDDKYTNESLFPGYNFRYAKYYKENGMEKRTLIKAFGVRFDILVFGTGGKF 
+RAttusP2X7  DSWSHRCQPKYSFRRLDDKYTNESLFPGYNFRYAKYYKENGMEKRTLIKAFGVRFDILVFGTGGKF 
+ _consrvd   ******************************************************************
+
+ _aln.pos      930       940       950       960       970       980       990
+6u9w        DIIQLVVYIGSTLSYFGLATVCIDLIINTYASTCCRSRVYPSCKCCEPCAVNEYYYRKKCEPIVEP 
+RAttusP2X7  DIIQLVVYIGSTLSYFGLATVCIDLIINTYASTCCRSRVYPSCKCCEPCAVNEYYYRKKCEPIVEP 
+ _consrvd   ******************************************************************
+
+ _aln.pos         1000      1010      1020      1030      1040      1050
+6u9w        KPTLKYVSFVDEPHIWMVDQQLLGKSLQDVKGQEVPRPQTDFLELSRLD----------------- 
+RAttusP2X7  KPTLKYVSFVDEPHIWMVDQQLLGKSLQDVKGQEVPRPQTDFLELSRLSLSLHHSPPIPGQPEEMQ 
+ _consrvd   ************************************************
+
+ _aln.pos   1060      1070      1080      1090      1100      1110      1120
+6u9w        ------------SPDWCQCGNCLPSQLPENRRALEELCCRRKPGQCITTSELFSKIVLSREALQLL 
+RAttusP2X7  LLQIEAVPRSRDSPDWCQCGNCLPSQLPENRRALEELCCRRKPGQCITTSELFSKIVLSREALQLL 
+ _consrvd               ******************************************************
+
+ _aln.pos       1130      1140      1150      1160      1170      1180
+6u9w        LLYQEPLLALEGEAINSKLRHCAYRSYATWRFVSQDMADFAILPSCCRWKIRKEFPKTQGQYSGFK 
+RAttusP2X7  LLYQEPLLALEGEAINSKLRHCAYRSYATWRFVSQDMADFAILPSCCRWKIRKEFPKTQGQYSGFK 
+ _consrvd   ******************************************************************
+
+ _aln.pos 1190      1200      1210      1220      1230      1240      1250
+6u9w        YPY/C----SWNDVFQYETNKVTRIQSVNYGTIKWILHMTVFSYVSFALMSDKLYQRKEPLISSVH 
+RAttusP2X7  YPY-MPACCSWNDVFQYETNKVTRIQSVNYGTIKWILHMTVFSYVSFALMSDKLYQRKEPLISSVH 
+ _consrvd   ***      *********************************************************
+
+ _aln.pos     1260      1270      1280      1290      1300      1310      1320
+6u9w        TKVKGVAEVTENVTEGGVTKLVHGIFDTADYTLPLQGNSFFVMTNYLKSEGQEQKLCPEYPSRGKQ 
+RAttusP2X7  TKVKGVAEVTENVTEGGVTKLVHGIFDTADYTLPLQGNSFFVMTNYLKSEGQEQKLCPEYPSRGKQ 
+ _consrvd   ******************************************************************
+
+ _aln.pos         1330      1340      1350      1360      1370      1380
+6u9w        CHSDQGCIKGWMDPQSKGIQTGRCIPYDQKRKTCEIFAWCPAEEGKEAPRPALLRSAENFTVLIKN 
+RAttusP2X7  CHSDQGCIKGWMDPQSKGIQTGRCIPYDQKRKTCEIFAWCPAEEGKEAPRPALLRSAENFTVLIKN 
+ _consrvd   ******************************************************************
+
+ _aln.pos   1390      1400      1410      1420      1430      1440      1450
+6u9w        NIDFPGHNYTTRNILPGMNISCTFHKTWNPQCPIFRLGDIFQEIGENFTEVAVQGGIMGIEIYWDC 
+RAttusP2X7  NIDFPGHNYTTRNILPGMNISCTFHKTWNPQCPIFRLGDIFQEIGENFTEVAVQGGIMGIEIYWDC 
+ _consrvd   ******************************************************************
+
+ _aln.pos       1460      1470      1480      1490      1500      1510
+6u9w        NLDSWSHRCQPKYSFRRLDDKYTNESLFPGYNFRYAKYYKENGMEKRTLIKAFGVRFDILVFGTGG 
+RAttusP2X7  NLDSWSHRCQPKYSFRRLDDKYTNESLFPGYNFRYAKYYKENGMEKRTLIKAFGVRFDILVFGTGG 
+ _consrvd   ******************************************************************
+
+ _aln.pos 1520      1530      1540      1550      1560      1570      1580
+6u9w        KFDIIQLVVYIGSTLSYFGLATVCIDLIINTYASTCCRSRVYPSCKCCEPCAVNEYYYRKKCEPIV 
+RAttusP2X7  KFDIIQLVVYIGSTLSYFGLATVCIDLIINTYASTCCRSRVYPSCKCCEPCAVNEYYYRKKCEPIV 
+ _consrvd   ******************************************************************
+
+ _aln.pos     1590      1600      1610      1620      1630      1640      1650
+6u9w        EPKPTLKYVSFVDEPHIWMVDQQLLGKSLQDVKGQEVPRPQTDFLELSRLD--------------- 
+RAttusP2X7  EPKPTLKYVSFVDEPHIWMVDQQLLGKSLQDVKGQEVPRPQTDFLELSRLSLSLHHSPPIPGQPEE 
+ _consrvd   **************************************************
+
+ _aln.pos         1660      1670      1680      1690      1700      1710
+6u9w        --------------SPDWCQCGNCLPSQLPENRRALEELCCRRKPGQCITTSELFSKIVLSREALQ 
+RAttusP2X7  MQLLQIEAVPRSRDSPDWCQCGNCLPSQLPENRRALEELCCRRKPGQCITTSELFSKIVLSREALQ 
+ _consrvd                 ****************************************************
+
+ _aln.pos   1720      1730      1740      1750      1760      1770      1780
+6u9w        LLLLYQEPLLALEGEAINSKLRHCAYRSYATWRFVSQDMADFAILPSCCRWKIRKEFPKTQGQYSG 
+RAttusP2X7  LLLLYQEPLLALEGEAINSKLRHCAYRSYATWRFVSQDMADFAILPSCCRWKIRKEFPKTQGQYSG 
+ _consrvd   ******************************************************************
+
+ _aln.pos
+6u9w        FKYPY 
+RAttusP2X7  FKYPY 
+ _consrvd   *****
